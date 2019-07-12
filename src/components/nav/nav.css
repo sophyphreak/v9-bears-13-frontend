@@ -124,6 +124,15 @@
   font-weight: 600;
 }
 
+.move-right {
+  margin-right: 5px;
+}
+
+.header_style {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 4em;
+}
+
 @media only screen and (max-width: 992px) {
   .nav-style {
     width: 100%;
